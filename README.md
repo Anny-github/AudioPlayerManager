@@ -1,0 +1,2 @@
+# AudioPlayerManager
+管理音频播放类，AVAudioPlayer播放在线和本地音频文件，有支持下载类
